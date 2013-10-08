@@ -3,7 +3,7 @@ readitnever
 
 ReadItNever - This extention will help you to manage the most important content.
 
-*Desription
+##Desription
 
 The best way to manage contant that realy important to you.
 
