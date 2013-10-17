@@ -1,7 +1,7 @@
-readitnever
+Read It Never
 ===========
 
-ReadItNever - This extention will help you to manage the most important content.
+ReadItNever - this extention will help you to manage the most important content.
 
 ##Desription
 
@@ -11,4 +11,4 @@ There are many types of content in the web. There are many ways to save and shar
 
 To be honest, this extension simply closes the current tab. The bookmarks are always filled with a mass of information to which we are never going back. This extension is yet another way to remind you of what kind of information is really important and necessary for you.
 
-Original idea @dingomegakiller implementation @my8bitname
+Original idea ![twitter icon](https://twitter.com/favicons/favicon.ico)@dingomegakiller implementation ![twitter icon](https://twitter.com/favicons/favicon.ico)@my8bitname
